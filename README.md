@@ -4,9 +4,9 @@ super advanced spiderman simulation.
 run launch.html to activate the simulation and experience spidermen
 
 ====================================================================================
+to move use wasd and space to shoot adn you have to dodge stuff
 
-
-
+====================================================================================
 reccomendded pc specs:
 
 152 racks (10,410 nodes)
