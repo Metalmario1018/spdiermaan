@@ -3,6 +3,8 @@ super advanced spiderman simulation.
 
 run launch.html to activate the simulation and experience spidermen
 
+====================================================================================
+
 
 
 reccomendded pc specs:
@@ -18,7 +20,7 @@ Total memory: 921 TB
 0.646 Pflop/s total
 
 
-recommended pc for simulation experience
+recommended pc for simulation experience:
 
 Pleiades Supercomputer
 Pleiades supercomputer at the NASA Advanced Supercomputing facility
